@@ -1,6 +1,5 @@
 # Self-Driving Car Engineer Nanodegree
 
-
 ## Project: **Advanced Lane Finding** 
 
 <img src="img/gif_output1.gif" width="345" height="200"/>
